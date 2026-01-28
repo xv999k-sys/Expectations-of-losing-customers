@@ -24,7 +24,7 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 3. Load the saved model and test predictions
 
 
-
+____________________________________________________________________________________________
 Due to class imbalance, recall for churn customers was prioritized over accuracy
 to better align with business objectives.
 
@@ -66,3 +66,6 @@ AR:
 تشغيل دفاتر Jupyter بالترتيب
 
 تحميل النموذج المحفوظ واختبار التنبؤات
+                                                                                                            _______________________________________________________________________________________
+
+بسبب عدم توازن الفئات، تم إعطاء الأولوية لاسترجاع بيانات العملاء المتسربين على حساب الدقة لتحقيق توافق أفضل مع أهداف العمل
